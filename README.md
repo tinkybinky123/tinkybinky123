@@ -3,7 +3,7 @@
 
 <a href="https://github.com/Ayhuuu"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 ```python
-┌──(Ayhuuu@root)-[~/]
+┌──(TinkyBinky@root)-[~/]
 └─$ cat TinkyBinky123.py
 
 class TinkyBinky:
